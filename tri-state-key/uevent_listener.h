@@ -17,9 +17,9 @@
 #ifndef _INIT_UEVENT_LISTENER_H
 #define _INIT_UEVENT_LISTENER_H
 
-#include <functional>
-
 #include <android-base/unique_fd.h>
+
+#include <functional>
 
 #include "uevent.h"
 
